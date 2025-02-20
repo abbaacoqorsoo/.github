@@ -1,133 +1,94 @@
 
-# Contributor Covenant Code of Conduct
 
-## Our Pledge
+ 
+ ijoo
 
-We as members, contributors, and leaders pledge to make participation in our
-community a harassment-free experience for everyone, regardless of age, body
-size, visible or invisible disability, ethnicity, sex characteristics, gender
-identity and expression, level of experience, education, socio-economic status,
-nationality, personal appearance, race, caste, color, religion, or sexual
-identity and orientation.
+# Jijjiirama haquu Jijjiirama raawwadhu...
 
-We pledge to act and interact in ways that contribute to an open, welcoming,
-diverse, inclusive, and healthy community.
+ #Gulaaluu
 
-## Our Standards
+ #Dursee ilaaluu
 
-Examples of behavior that contributes to a positive environment for our
-community include:
+# Garaagarummaa agarsiisi
 
-* Demonstrating empathy and kindness toward other people
-* Being respectful of differing opinions, viewpoints, and experiences
-* Giving and gracefully accepting constructive feedback
-* Accepting responsibility and apologizing to those affected by our mistakes,
-  and learning from the experience
-* Focusing on what is best not just for us as individuals, but for the overall
-  community
+ #Ga'ee
 
-Examples of unacceptable behavior include:
+# Waadaa Keenya
 
-* The use of sexualized language or imagery, and sexual attention or advances of
-  any kind
-* Trolling, insulting or derogatory comments, and personal or political attacks
-* Public or private harassment
-* Publishing others' private information, such as a physical or email address,
-  without their explicit permission
-* Other conduct which could reasonably be considered inappropriate in a
-  professional setting
+ Nuti akka miseensotaatti, gumaachitootni, fi geggeessitootaatti hirmaannaan hawaasa keenya keessatti hirmaannaan nama hundaaf, umrii, guddina qaamaa, qaama miidhamummaa mul’atu ykn hin mul’anne, gosa, amala saalaa, eenyummaa fi ibsa saalaa, sadarkaa muuxannoo, barnoota, haala hawaas-dinagdee, sabummaa, bifa dhuunfaa, sanyii, gosa, halluu, amantii, ykn eenyummaa fi kallattii saalaa osoo hin ilaalin muuxannoo rakkina irraa bilisa akka ta’u waadaa seenna.
 
-## Enforcement Responsibilities
+ Hawaasa banaa, simannaa, adda addaa, hunda hammatee fi fayyaa ta’eef gumaacha taasisuun socho’uu fi walitti dhufeenya akka goonu waadaa seennaa.
 
-Community leaders are responsible for clarifying and enforcing our standards of
-acceptable behavior and will take appropriate and fair corrective action in
-response to any behavior that they deem inappropriate, threatening, offensive,
-or harmful.
+ Istaandardii Keenya
 
-Community leaders have the right and responsibility to remove, edit, or reject
-comments, commits, code, wiki edits, issues, and other contributions that are
-not aligned to this Code of Conduct, and will communicate reasons for moderation
-decisions when appropriate.
+ Fakkeenyonni amala hawaasa keenyaaf haala gaarii akka qabaatu gumaachan:
 
-## Scope
+ Namoota kaaniif garaa laafinaafi gaarummaa argisiisuu
 
-This Code of Conduct applies within all community spaces, and also applies when
-an individual is officially representing the community in public spaces.
-Examples of representing our community include using an official e-mail address,
-posting via an official social media account, or acting as an appointed
-representative at an online or offline event.
+ Yaada, ilaalchaa fi muuxannoo garaa garaa kabajuu
 
-## Enforcement
+ Yaada ijaarsaa kennuu fi ayyaanaan fudhachuu
 
-Instances of abusive, harassing, or otherwise unacceptable behavior may be
-reported to the community leaders responsible for enforcement at
-[INSERT CONTACT METHOD].
-All complaints will be reviewed and investigated promptly and fairly.
+ Itti gaafatamummaa fudhachuu fi namoota dogoggora keenyaan miidhaman dhiifama gaafachuu, muuxannoo irraa barachuu
 
-All community leaders are obligated to respect the privacy and security of the
-reporter of any incident.
+ Akka nama dhuunfaatti qofaaf osoo hin taane, hawaasa waliigalaatiif waan gaarii ta’e irratti xiyyeeffachuu
 
-## Enforcement Guidelines
+ Fakkeenyonni amala fudhatama hin qabne kanneen akka:
 
-Community leaders will follow these Community Impact Guidelines in determining
-the consequences for any action they deem in violation of this Code of Conduct:
+ Fayyadama afaan ykn fakkii saalqunnamtii, fi xiyyeeffannoo saalaa ykn guddina gosa kamiyyuu
 
-### 1. Correction
+ Yaada trolling, arrabsoo ykn xiqqeessuu, fi haleellaa dhuunfaa ykn siyaasaa
 
-**Community Impact**: Use of inappropriate language or other behavior deemed
-unprofessional or unwelcome in the community.
+ Rakkoo ummataa ykn dhuunfaa
 
-**Consequence**: A private, written warning from community leaders, providing
-clarity around the nature of the violation and an explanation of why the
-behavior was inappropriate. A public apology may be requested.
+ Odeeffannoo dhuunfaa namoota biroo, kan akka teessoo qaamaan ykn imeelii, hayyama isaanii isa ifa ta’e malee maxxansuu
 
-### 2. Warning
+ Gocha biroo haala ogummaa keessatti sababa qabeessa ta’een akka sirrii hin taaneetti ilaalamuu danda’u
 
-**Community Impact**: A violation through a single incident or series of
-actions.
+ Itti Gaafatamummaa Raawwachiisummaa
 
-**Consequence**: A warning with consequences for continued behavior. No
-interaction with the people involved, including unsolicited interaction with
-those enforcing the Code of Conduct, for a specified period of time. This
-includes avoiding interactions in community spaces as well as external channels
-like social media. Violating these terms may lead to a temporary or permanent
-ban.
+ Hoggantoonni hawaasaa ulaagaalee amala fudhatama qabu keenya qulqulleessuu fi hojiirra oolchuuf itti gaafatamummaa kan qaban yoo ta’u, amala sirrii hin taane, doorsisaa, nama aarsu, ykn miidhaa geessisu jedhanii yaadan kamiyyuu deebii kennuudhaan tarkaanfii sirreeffamaa sirrii fi haqa qabeessa ta’e ni fudhatu.
 
-### 3. Temporary Ban
+ Hoggantoonni hawaasaa yaada, waadaa, koodii, gulaallii wiikii, dhimmoota, fi gumaacha biroo Dambii Naamusaa kanaan wal hin simne haquu, gulaaluu, ykn diduudhaaf mirgaa fi itti gaafatamummaa qabu, yeroo barbaachisaa ta’ettis sababa murtii madaalawaa ni dabarsu.
 
-**Community Impact**: A serious violation of community standards, including
-sustained inappropriate behavior.
+ Bal'ina
 
-**Consequence**: A temporary ban from any sort of interaction or public
-communication with the community for a specified period of time. No public or
-private interaction with the people involved, including unsolicited interaction
-with those enforcing the Code of Conduct, is allowed during this period.
-Violating these terms may lead to a permanent ban.
+ Dambiin Naamusaa kun iddoowwan hawaasaa hunda keessatti raawwatiinsa kan qabu yoo ta’u, akkasumas yeroo namni dhuunfaa tokko iddoowwan uummataa keessatti hawaasa bakka bu’ee ifatti bakka bu’u hojiirra oola.  Fakkeenyonni hawaasa keenya bakka bu’uu teessoo imeelii ofiisaa fayyadamuu, karaa akkaawuntii miidiyaa hawaasaa ofiisaa maxxansuu, ykn taatee toora interneetii ykn toora interneetii ala ta’e irratti akka bakka bu’aa muudameetti hojjechuudha.
 
-### 4. Permanent Ban
+ Raawwachiisummaa
 
-**Community Impact**: Demonstrating a pattern of violation of community
-standards, including sustained inappropriate behavior, harassment of an
-individual, or aggression toward or disparagement of classes of individuals.
+ Fakkeenyonni amala miidhaa, rakkisuu, ykn karaa biraatiin fudhatama hin qabne hoggantoota hawaasaa itti gaafatamummaa raawwachiisummaa qabaniif [INSERT CONTACT METHOD] irratti gabaafamuu danda’u.  Iyyannoowwan hundinuu hatattamaa fi haqaan ni ilaalama, ni qoratama.
 
-**Consequence**: A permanent ban from any sort of public interaction within the
-community.
+ Hoggantoonni hawaasaa hundinuu iccitii fi nageenya gabaasaa taatee kamiyyuu kabajuuf dirqama qabu.
 
-## Attribution
+ Qajeelfama Raawwachiisummaa
 
-This Code of Conduct is adapted from the [Contributor Covenant][homepage],
-version 2.1, available at
-[https://www.contributor-covenant.org/version/2/1/code_of_conduct.html][v2.1].
+ Hoggantoonni hawaasaa tarkaanfii kamiyyuu Dambii Naamusaa kana cabseera jedhanii yaadan irratti bu’aa akkamii akka fidu murteessuu keessatti Qajeelfama Dhiibbaa Hawaasaa kana ni hordofu:
 
-Community Impact Guidelines were inspired by
-[Mozilla's code of conduct enforcement ladder][Mozilla CoC].
+ 1. Sirreeffama
 
-For answers to common questions about this code of conduct, see the FAQ at
-[https://www.contributor-covenant.org/faq][FAQ]. Translations are available at
-[https://www.contributor-covenant.org/translations][translations].
+ Dhiibbaa Hawaasa: Afaan hin malle ykn amala biroo hawaasa keessatti ogummaa hin qabne ykn hin simatamne jedhamee fudhatamu fayyadamuu.
 
-[homepage]: https://www.contributor-covenant.org
-[v2.1]: https://www.contributor-covenant.org/version/2/1/code_of_conduct.html
-[Mozilla CoC]: https://github.com/mozilla/diversity
-[FAQ]: https://www.contributor-covenant.org/faq
-[translations]: https://www.contributor-covenant.org/translations
+ Bu’aa: Akeekkachiisa dhuunfaa, barreeffamaan hoggantoota hawaasaa irraa, naannoo maalummaa sarbama seeraa ifa ta’ee fi amala sun maaliif sirrii akka hin taane ibsa kennuu.  Dhiifama ummataa gaafachuun ni danda’ama.
+
+ 2. Akeekkachiisa
+
+ Dhiibbaa Hawaasaa: Sarbama seeraa taatee tokkoon ykn gocha walduraa duubaan raawwatamuun raawwatamu.
+
+ Bu’aa: Akeekkachiisa amala itti fufiinsa qabuuf bu’aa qabu.  Namoota dhimmicha keessa jiran waliin yeroo murtaa’eef walitti dhufeenyi hin barbaadamne kanneen Dambii Naamusaa kabachiisan waliin taasifamuu dabalatee.  Kunis walqunnamtii iddoowwan hawaasaa akkasumas karaalee alaa kan akka miidiyaa hawaasaa irraa fagaachuu dabalata.  Haalawwan kana cabsuun yeroodhaaf ykn dhaabbataadhaan ugguramuu danda’a.
+
+ 3. Uggura Yeroo
+
+ Dhiibbaa Hawaasa: Amala hin malle itti fufiinsa qabu dabalatee ulaagaalee hawaasaa hamaa cabsuu.
+
+ Bu’aa: Yeroo murtaa’eef hawaasa waliin walqunnamtii ykn qunnamtii ummataa gosa kamiyyuu akka hin raawwanne yeroodhaaf dhorkamuu.  Yeroo kana keessatti namoota Dambii Naamusaa kabachiisan waliin walitti dhufeenyi hin barbaadamne dabalatee namoota dhimmicha keessa jiran waliin walitti dhufeenyi mootummaas ta’e dhuunfaa kamiyyuu hin hayyamamu.  Haalawwan kana cabsuun uggura dhaabbataa fiduu danda’a.
+
+ 4. Uggura Dhaabbataa
+
+ Dhiibbaa Hawaasaa: Amala itti fufiinsaan hin malle, nama dhuunfaa tokko rakkisuu, ykn gita namoota dhuunfaa irratti weeraruun ykn xiqqeessuu dabalatee, akkaataa ulaagaalee hawaasaa cabsuu agarsiisuu.
+
+ Bu’aa: Hawaasa keessatti walqunnamtii ummataa gosa kamiyyuu akka hin uumamne dhaabbataadhaan dhorkamuu.
+
+ Madda (Atribution) jedhu
+
+ Dambiin Naamusaa kun Kakuu Gumaacha, 2019 irraa kan fudhatamedha.
