@@ -1,9 +1,13 @@
-# GitHub Skills
+#Waa'ee keenya
+Dhalootaf gummacha barbaachisuu kennineefi gahumsuu barbanna.
+#Mul'ata
+Dhalootni fuuldurraaf kalaqa sammuu isa keessa jiruu gara teknollojjii fi fasyinaasii gargaruun hawwii isaani akka guutatani gochuudha.
 
-_This is not a course._ See https://skills.github.com for our list of available courses.
+#Barnoota fi saayinsii
+Akka biyya Itoophiyaatti teknollojii akka daa'imaa reefuu deemuuf shaakkaltu irraa jira.kanaaf gama saayinsii fi teknolloojjii fayyadamuu ummata keenya biraa geesisuudha.
 
-See [profile/README.md](profile/README.md) for more information about GitHub Skills. If you'd like to provide any feedback, please start a new [discussion](https://github.com/orgs/skills/discussions).
+#yaadannoo kuusaa
+yaadannoo suuraa fi barreeffama website kana irraatti kuusuu dha.
 
-See the [GitHub Skills Quickstart Guide](https://skills.github.com/quickstart) to learn how to build your own Actions-backed courses. See [CONTENT_MODEL.md](https://skills.github.com/content-model) for more information about how to write the content for GitHub Skills courses.
-
-&copy; 2023 GitHub &bull; [Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) &bull; [MIT License](https://gh.io/mit)
+#Maxxansa
+ 2017/2025
